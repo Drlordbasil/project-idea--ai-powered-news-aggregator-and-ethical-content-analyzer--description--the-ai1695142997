@@ -1,0 +1,27 @@
+The package requirements for this Python program are:
+
+- requests
+- bs4
+- googlesearch
+- sklearn
+
+You can install these packages by running the following command:
+
+```
+pip install requests bs4 googlesearch sklearn
+```
+
+Alternatively, you can create a `requirements.txt` file with the following contents:
+
+```
+requests
+bs4
+googlesearch
+sklearn
+```
+
+And then install the packages using the following command:
+
+```
+pip install -r requirements.txt
+```
